@@ -1,0 +1,7 @@
+{
+  "total_duration_minutes": 20,
+  "end_script_command": "sudo shutdown now",
+  "volume": 100,
+  "quiet_mpv": true,
+  "shuffle": true
+}
