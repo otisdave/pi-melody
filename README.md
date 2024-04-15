@@ -14,6 +14,7 @@ This Python script is designed to play music files using MPV player.
 2. Install Python 3.x if not already installed.
 3. Install MPV player.
 4. Create a `config.json` file based on the provided template and configure the options according to your requirements.
+5. Add your music files inside melodies folder
 
 ## Configuration
 
